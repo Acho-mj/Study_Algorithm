@@ -1,3 +1,5 @@
+package 백준;
+
 import java.util.Scanner;
 
 public class BOJ_10870_피보나치수 {

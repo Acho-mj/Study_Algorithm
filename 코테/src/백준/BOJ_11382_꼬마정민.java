@@ -1,3 +1,5 @@
+package 백준;
+
 import java.util.Scanner;
 
 public class BOJ_11382_꼬마정민 {

@@ -1,3 +1,5 @@
+package 백준;
+
 import java.util.Scanner;
 
 public class BOJ_5597_과제안내신분 {

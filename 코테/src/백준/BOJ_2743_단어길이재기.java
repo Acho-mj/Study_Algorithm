@@ -1,3 +1,5 @@
+package 백준;
+
 import java.util.Scanner;
 
 public class BOJ_2743_단어길이재기 {

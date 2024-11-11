@@ -1,3 +1,5 @@
+package 백준;
+
 import java.util.Scanner;
 
 public class BOJ_25314_코딩은체육과목입니다 {

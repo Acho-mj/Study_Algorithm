@@ -1,3 +1,5 @@
+package 백준;
+
 import java.util.Arrays;
 import java.util.Scanner;
 // B배열의 가장 큰 요소와 A배열의 가장 작은 요소끼리 곱하면된다.

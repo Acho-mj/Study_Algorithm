@@ -1,3 +1,5 @@
+package 백준;
+
 import java.util.*;
 
 public class BOJ_1546_평균 {
